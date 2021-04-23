@@ -1,0 +1,18 @@
+cp -rf "Proyecto base"/* .
+
+git status
+git add .
+git commit -m "Integración directorio: Proyecto base"
+git reset --soft HEAD
+
+cp -rf "Proyecto Backup"/* .
+
+cp -rf "Proyecto (Versión Lupita)"/* .
+
+cp -rf "Proyecto (pruebas, no borrar)"/* .
+
+cp -rf "Proyecto base - final"/* .
+
+cp -rf "Proyecto base - final - final"/* .
+
+cp -rf "Proyecto base - final - final - este es bueno"/* .

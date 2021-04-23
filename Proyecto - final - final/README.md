@@ -17,4 +17,3 @@ Esta es una pagina web simple, utilizada para ejemplificar el uso de git.
 - [ ] Subir repositorio a github
 - [ ] Clonar copia del repositorio de manera local
 - [ ] Hacer cambios de manera colaborativa (Todos en una sola rama)
-- 
