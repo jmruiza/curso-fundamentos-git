@@ -1,3 +1,5 @@
+holi
+
 # Fundamentos git
 
 Esta es una pagina web simple, utilizada para ejemplificar el uso de git.
