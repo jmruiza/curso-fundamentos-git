@@ -15,6 +15,14 @@ Esta es una pagina web simple, utilizada para ejemplificar el uso de git.
     - [ ] Proyecto - final - final este es el bueno
 - [ ] Crear repositorio en github
 - [ ] Subir repositorio a github
+
+
+RAMOTA RULES
+
 - [ ] Clonar copia del repositorio de manera local
-- [ ] Hacer cambios de manera colaborativa (Todos en una sola rama)
+- [ ] Hacer 
+
+}kjhsdkjnksfhnksdn
+
+cambios de manera colaborativa (Todos en una sola rama)
 - 
