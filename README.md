@@ -16,7 +16,7 @@ Esta es una pagina web simple, utilizada para ejemplificar el uso de git.
 - [ ] Crear repositorio en github
 - [ ] Subir repositorio a github
 
-
+hola 
 RAMOTA RULES
 
 - [ ] Clonar copia del repositorio de manera local
